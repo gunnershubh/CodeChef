@@ -10,7 +10,7 @@
 print("Let's start the atm program")
 print("Hello")
 go = False
-withdraw = input()
+withdraw = iinput()
 
 current = int(input(range(0, 2000)))
 
